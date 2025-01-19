@@ -20,15 +20,21 @@ dictionaries = {
         'Nne':"mother", 'Nna':"father", 'nwannem':"brother/sister", 'onye':"person", 'afo':"year",
         'ora':"town", 'uzo':"road", 'Mmiri':"water", 'anya':"eye", 'ozu':"bone", 'eke':"python",
         'okuko':"chicken", 'aku':"tiger", 'ude':"peace", 'chukwu':"God"
-
     },
+  
+    "Spanish":{
+            'hola':"hello",'adios':"goodbye",'buenos dias':"good morning",'bien':"good",'buenas tardes':"good afternoon",
+            'buenas noches':"good evening/night",'mal':"bad",'¿como estáS?':"How are you",'mas o menos':"so-so",
+            'por favor':"please",'uno':"one",'tres':"three",'diez':"ten",'rojo':"red",'azul':"blue",
+            'Verde':"green",'madre':"mother",'parde':"father",'hermana':"sister",'abuelo':"grandfather"
+    },
+
     "efik":{
         'Mme':"hello", 'koko':"good morning", 'ke':"thank you", 'Mmi':"mother", 'ada':"father", 'ete':"brother",
         'eka':"sister", 'urua':"town", 'mbakara':"river", 'ukot':"farm", 'ekpo':"ghost", 'nsia':"love", 'ekaete':"beautiful",
-        'mfia':"good", 'ukpono':"peace", 'aifa':"joy", 'ekemma':"wisdom", 'uwem':"life", 'abasi':"God,"
+        'mfia':"good", 'ukpono':"peace", 'aifa':"joy", 'ekemma':"wisdom", 'uwem':"life", 'abasi':"God",
     }
 }
-
 
 # Function to search the selected dictionary
 def search_word():
